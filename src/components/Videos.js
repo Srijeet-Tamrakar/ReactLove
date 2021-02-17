@@ -8,6 +8,7 @@ import canibal from './Videos/canibal.mp4'
 import v1 from './Videos/1.mp4'
 import v2 from './Videos/2.mp4'
 import v3 from './Videos/3.mp4'
+import butter from './Images/butter1.jpg'
 import styled from 'styled-components'
 
 const Videos = () => {
@@ -36,24 +37,14 @@ const Videos = () => {
             </Carousel> 
 
             <footer className="f text-center mt-5">
-                <div class="container p-4">
-                    <div class="row">
-                    <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-                        <h5 class="text-uppercase">Footer text</h5>
-
-                        <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
-                        molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae
-                        aliquam voluptatem veniam, est atque cumque eum delectus sint!
-                        </p>
+                <div className="container p-4">
+                    <div className="row">
+                    <div className="col-lg-6 col-md-12 mb-4 mb-md-0 mt-4">
+                        <img src = { butter } alt='Butter' width='300' height='300' />
                     </div>
-                    <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-                        <h5 class="text-uppercase">Footer text</h5>
-
+                    <div className="col-lg-6 col-md-12 mb-4 mb-md-0">
                         <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
-                        molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae
-                        aliquam voluptatem veniam, est atque cumque eum delectus sint!
+                        Grow old with me. Let’s count each other’s wrinkles as the years pass by. Let’s see who losses all of the teeth and who will need the help of the walking stick first.
                         </p>
                     </div>
                     </div>
@@ -94,5 +85,9 @@ const Video = styled.div`
 
     .f{
         background-color:#95DBE5FF;
+    }
+
+    img{
+        border-radius:50%;
     }
 `

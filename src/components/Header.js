@@ -1,10 +1,11 @@
 import React from 'react'
 import styled from 'styled-components'
+import heart from './Images/heart.png'
 
 const Header = () => {
     return (
         <HeaderContainer>
-            <div className='text-center  p-4'>5TH<img src= '../../heart.png' style={{width:'48px'}}  alt = 'LOVE'/><br></br>ANNIVERSARY</div>
+            <div className='text-center  p-4'>5TH<img src= {heart} style={{width:'48px'}}  alt = 'LOVE'/><br></br>ANNIVERSARY</div>
         </HeaderContainer>
     )
 }

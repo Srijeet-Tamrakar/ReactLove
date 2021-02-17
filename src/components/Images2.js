@@ -1,11 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
+import love from './Images/Love.jpg'
 
 const Images2 = () => {
     return (
         <Images22 className=' container '>
             <div className='text-center p-3  ich'> Ich Liebe Dich</div>
-            <img src="../../Love.jpg" className="img-fluid rounded" alt="Responsive image"></img>
+            <img src={love} className="img-fluid rounded" alt="Responsive image"></img>
         </Images22>
     )
 }
