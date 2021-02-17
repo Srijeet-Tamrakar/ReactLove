@@ -16,7 +16,7 @@ export default Images2
 const Images22 = styled.div`
     *{
         font-family: 'Finger Paint', cursive;
-        font-size:40px;
+        font-size:2.5em;
         font-weight:700;
         
     }

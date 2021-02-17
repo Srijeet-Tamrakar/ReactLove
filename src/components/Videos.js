@@ -23,24 +23,24 @@ const Videos = () => {
         <Video>
             <h1 className =' text-center p-3 '>TIKTOK QUEEN</h1>
             <Carousel controls={false} interval={null} className='mb-5'>
-            <Carousel.Item><VideoPlayer src={video1} width='410' height='550' /></Carousel.Item>
-            <Carousel.Item><VideoPlayer src={video2} width='410' height='550'/></Carousel.Item>
-            <Carousel.Item><VideoPlayer src={video3} width='410' height='550' /></Carousel.Item>
-            <Carousel.Item><VideoPlayer src={video4} width='410' height='550'/></Carousel.Item>
+            <Carousel.Item><VideoPlayer className="d-block w-100 " height='550' src={video1}  /></Carousel.Item>
+            <Carousel.Item><VideoPlayer className="d-block w-100 " height='550' src={video2} /></Carousel.Item>
+            <Carousel.Item><VideoPlayer className="d-block w-100 " height='550' src={video3}  /></Carousel.Item>
+            <Carousel.Item><VideoPlayer className="d-block w-100 " height='550' src={video4} /></Carousel.Item>
             </Carousel> 
 
             <h1 className =' text-center p-3 five'>MEMORIES</h1>
             <Carousel controls={false} interval={null}>
-            <Carousel.Item><VideoPlayer src={nvideo1} width='410' height='550' /><Carousel.Caption><p>I found a woman, stronger than anyone I know. She shares my dreams, I hope that someday I'll share her home</p></Carousel.Caption></Carousel.Item>
-            <Carousel.Item><VideoPlayer src={nvideo2} width='410' height='550'/><Carousel.Caption><p>Until I make you mine!</p></Carousel.Caption> </Carousel.Item> 
-            <Carousel.Item><VideoPlayer src={nvideo3} width='410' height='550' /><Carousel.Caption><p>Cause we were just kids when we fell in love. Not knowing what it was. I will not give you up this time</p></Carousel.Caption></Carousel.Item>
+            <Carousel.Item><VideoPlayer height='550' src={nvideo1} className="d-block w-100 " /><Carousel.Caption><p>I found a woman, stronger than anyone I know. She shares my dreams, I hope that someday I'll share her home</p></Carousel.Caption></Carousel.Item>
+            <Carousel.Item><VideoPlayer height='550' src={nvideo2} className="d-block w-100  "/><Carousel.Caption><p>Until I make you mine!</p></Carousel.Caption> </Carousel.Item> 
+            <Carousel.Item><VideoPlayer height='550' src={nvideo3} className="d-block w-100  "/><Carousel.Caption><p>Cause we were just kids when we fell in love. Not knowing what it was. I will not give you up this time</p></Carousel.Caption></Carousel.Item>
             </Carousel> 
 
             <footer className="f text-center mt-5">
                 <div className="container p-4">
                     <div className="row">
                     <div className="col-lg-6 col-md-12 mb-4 mb-md-0 mt-4">
-                        <img src = { butter } alt='Butter' width='300' height='300' />
+                        <img height='550' src = { butter } alt='Butter' width='300' height='300' />
                     </div>
                     <div className="col-lg-6 col-md-12 mb-4 mb-md-0">
                         <p>
@@ -62,9 +62,9 @@ export default Videos
 const Video = styled.div`
     h1, h3{
         font-family: 'Finger Paint', cursive;
-        font-size:40px;
+        font-size:2.5em;
         font-weight:700;
-        margin-top:10rem;
+        margin-top:5rem;
     }
 
     .five{
@@ -73,13 +73,13 @@ const Video = styled.div`
 
     p{
         font-family: 'Finger Paint', cursive;
-        font-size:20px;
+        font-size:1.25em;
         font-weight:500;
     }
 
     .cl{
         font-family: 'Charmonman', cursive;
-        font-size:20px;
+        font-size:1.25em;
         font-weight:500;
     }
 

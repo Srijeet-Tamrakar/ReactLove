@@ -53,11 +53,11 @@ export default Calendar
 const CalendarContainer = styled.div`
    *{
     font-family: 'Charmonman', cursive;
-    font-size:2rem;
+    font-size:1.5rem;
    }
 
    small{
-       font-size:18px;
+       font-size:1rem;
     }
 
     .badge{
