@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ReactLove/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ReactLove/static/js/main.c237baa8.chunk.js",
-    "main.js.map": "/ReactLove/static/js/main.c237baa8.chunk.js.map",
-    "runtime-main.js": "/ReactLove/static/js/runtime-main.d9adcd1c.js",
-    "runtime-main.js.map": "/ReactLove/static/js/runtime-main.d9adcd1c.js.map",
+    "main.js": "/ReactLove/static/js/main.e8486329.chunk.js",
+    "main.js.map": "/ReactLove/static/js/main.e8486329.chunk.js.map",
+    "runtime-main.js": "/ReactLove/static/js/runtime-main.0cfade80.js",
+    "runtime-main.js.map": "/ReactLove/static/js/runtime-main.0cfade80.js.map",
     "static/css/2.150d169a.chunk.css": "/ReactLove/static/css/2.150d169a.chunk.css",
-    "static/js/2.4caf270c.chunk.js": "/ReactLove/static/js/2.4caf270c.chunk.js",
-    "static/js/2.4caf270c.chunk.js.map": "/ReactLove/static/js/2.4caf270c.chunk.js.map",
-    "static/js/3.dbdef571.chunk.js": "/ReactLove/static/js/3.dbdef571.chunk.js",
-    "static/js/3.dbdef571.chunk.js.map": "/ReactLove/static/js/3.dbdef571.chunk.js.map",
+    "static/js/2.21d22bf9.chunk.js": "/ReactLove/static/js/2.21d22bf9.chunk.js",
+    "static/js/2.21d22bf9.chunk.js.map": "/ReactLove/static/js/2.21d22bf9.chunk.js.map",
+    "static/js/3.7f93e8fe.chunk.js": "/ReactLove/static/js/3.7f93e8fe.chunk.js",
+    "static/js/3.7f93e8fe.chunk.js.map": "/ReactLove/static/js/3.7f93e8fe.chunk.js.map",
     "index.html": "/ReactLove/index.html",
     "static/css/2.150d169a.chunk.css.map": "/ReactLove/static/css/2.150d169a.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/ReactLove/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.4caf270c.chunk.js.LICENSE.txt": "/ReactLove/static/js/2.4caf270c.chunk.js.LICENSE.txt",
+    "static/js/2.21d22bf9.chunk.js.LICENSE.txt": "/ReactLove/static/js/2.21d22bf9.chunk.js.LICENSE.txt",
     "static/media/1.9022656b.mp4": "/ReactLove/static/media/1.9022656b.mp4",
     "static/media/1.a5a5bb6a.jpg": "/ReactLove/static/media/1.a5a5bb6a.jpg",
     "static/media/11.eaec9b85.jpg": "/ReactLove/static/media/11.eaec9b85.jpg",
@@ -33,10 +33,10 @@
     "static/media/saari.356bf81b.mp4": "/ReactLove/static/media/saari.356bf81b.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9adcd1c.js",
+    "static/js/runtime-main.0cfade80.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.4caf270c.chunk.js",
+    "static/js/2.21d22bf9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c237baa8.chunk.js"
+    "static/js/main.e8486329.chunk.js"
   ]
 }
