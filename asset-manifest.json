@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/ReactLove/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactLove/static/js/main.55e38598.chunk.js",
+    "main.js.map": "/ReactLove/static/js/main.55e38598.chunk.js.map",
+    "runtime-main.js": "/ReactLove/static/js/runtime-main.d9adcd1c.js",
+    "runtime-main.js.map": "/ReactLove/static/js/runtime-main.d9adcd1c.js.map",
+    "static/css/2.150d169a.chunk.css": "/ReactLove/static/css/2.150d169a.chunk.css",
+    "static/js/2.4caf270c.chunk.js": "/ReactLove/static/js/2.4caf270c.chunk.js",
+    "static/js/2.4caf270c.chunk.js.map": "/ReactLove/static/js/2.4caf270c.chunk.js.map",
+    "static/js/3.dbdef571.chunk.js": "/ReactLove/static/js/3.dbdef571.chunk.js",
+    "static/js/3.dbdef571.chunk.js.map": "/ReactLove/static/js/3.dbdef571.chunk.js.map",
+    "index.html": "/ReactLove/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ReactLove/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactLove/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4caf270c.chunk.js.LICENSE.txt": "/ReactLove/static/js/2.4caf270c.chunk.js.LICENSE.txt",
+    "static/media/1.9022656b.mp4": "/ReactLove/static/media/1.9022656b.mp4",
+    "static/media/1.a5a5bb6a.jpg": "/ReactLove/static/media/1.a5a5bb6a.jpg",
+    "static/media/11.eaec9b85.jpg": "/ReactLove/static/media/11.eaec9b85.jpg",
+    "static/media/2.4e60d7c0.jpg": "/ReactLove/static/media/2.4e60d7c0.jpg",
+    "static/media/2.845b1798.mp4": "/ReactLove/static/media/2.845b1798.mp4",
+    "static/media/3.0cba15df.mp4": "/ReactLove/static/media/3.0cba15df.mp4",
+    "static/media/8.d50893ac.jpg": "/ReactLove/static/media/8.d50893ac.jpg",
+    "static/media/Corvette.a0671256.mp4": "/ReactLove/static/media/Corvette.a0671256.mp4",
+    "static/media/Love.7b865f0d.jpg": "/ReactLove/static/media/Love.7b865f0d.jpg",
+    "static/media/butter1.5c715945.jpg": "/ReactLove/static/media/butter1.5c715945.jpg",
+    "static/media/canibal.f01d2c60.mp4": "/ReactLove/static/media/canibal.f01d2c60.mp4",
+    "static/media/facebook-love.90f345e6.svg": "/ReactLove/static/media/facebook-love.90f345e6.svg",
+    "static/media/fulbutte.9d036fe0.mp4": "/ReactLove/static/media/fulbutte.9d036fe0.mp4",
+    "static/media/heart.556c78a5.png": "/ReactLove/static/media/heart.556c78a5.png",
+    "static/media/her1.a0b62d0b.jpg": "/ReactLove/static/media/her1.a0b62d0b.jpg",
+    "static/media/me1.c8e23d6c.jpg": "/ReactLove/static/media/me1.c8e23d6c.jpg",
+    "static/media/saari.356bf81b.mp4": "/ReactLove/static/media/saari.356bf81b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9adcd1c.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.4caf270c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.55e38598.chunk.js"
+  ]
+}
