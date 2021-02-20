@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactLove/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ReactLove/static/js/main.a8427f61.chunk.js",
-    "main.js.map": "/ReactLove/static/js/main.a8427f61.chunk.js.map",
+    "main.js": "/ReactLove/static/js/main.1d634f66.chunk.js",
+    "main.js.map": "/ReactLove/static/js/main.1d634f66.chunk.js.map",
     "runtime-main.js": "/ReactLove/static/js/runtime-main.ef20ee1f.js",
     "runtime-main.js.map": "/ReactLove/static/js/runtime-main.ef20ee1f.js.map",
     "static/css/2.150d169a.chunk.css": "/ReactLove/static/css/2.150d169a.chunk.css",
@@ -22,6 +22,7 @@
     "static/media/3.0cba15df.mp4": "/ReactLove/static/media/3.0cba15df.mp4",
     "static/media/8.d50893ac.jpg": "/ReactLove/static/media/8.d50893ac.jpg",
     "static/media/Corvette.a0671256.mp4": "/ReactLove/static/media/Corvette.a0671256.mp4",
+    "static/media/ILY.62e6414f.jpg": "/ReactLove/static/media/ILY.62e6414f.jpg",
     "static/media/Love.7b865f0d.jpg": "/ReactLove/static/media/Love.7b865f0d.jpg",
     "static/media/butter1.5c715945.jpg": "/ReactLove/static/media/butter1.5c715945.jpg",
     "static/media/canibal.f01d2c60.mp4": "/ReactLove/static/media/canibal.f01d2c60.mp4",
@@ -37,6 +38,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.8d04de52.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a8427f61.chunk.js"
+    "static/js/main.1d634f66.chunk.js"
   ]
 }
