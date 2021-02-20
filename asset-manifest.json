@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactLove/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ReactLove/static/js/main.c5a0d19e.chunk.js",
-    "main.js.map": "/ReactLove/static/js/main.c5a0d19e.chunk.js.map",
+    "main.js": "/ReactLove/static/js/main.7c3da4e4.chunk.js",
+    "main.js.map": "/ReactLove/static/js/main.7c3da4e4.chunk.js.map",
     "runtime-main.js": "/ReactLove/static/js/runtime-main.ef20ee1f.js",
     "runtime-main.js.map": "/ReactLove/static/js/runtime-main.ef20ee1f.js.map",
     "static/css/2.150d169a.chunk.css": "/ReactLove/static/css/2.150d169a.chunk.css",
@@ -31,6 +31,7 @@
     "static/media/heart.556c78a5.png": "/ReactLove/static/media/heart.556c78a5.png",
     "static/media/her1.a0b62d0b.jpg": "/ReactLove/static/media/her1.a0b62d0b.jpg",
     "static/media/me1.c8e23d6c.jpg": "/ReactLove/static/media/me1.c8e23d6c.jpg",
+    "static/media/mob.b383485d.jpg": "/ReactLove/static/media/mob.b383485d.jpg",
     "static/media/saari.356bf81b.mp4": "/ReactLove/static/media/saari.356bf81b.mp4"
   },
   "entrypoints": [
@@ -38,6 +39,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.8d04de52.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c5a0d19e.chunk.js"
+    "static/js/main.7c3da4e4.chunk.js"
   ]
 }
